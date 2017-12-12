@@ -1,0 +1,40 @@
+{
+  "name": "cagey-peer-network",
+  "version": "0.0.1",
+  "description": "Distributed cluster messaging for the Cagey game framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "precommit": "npm test",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagey-framework/cagey-peer-network.git"
+  },
+  "keywords": [
+    "game",
+    "framework",
+    "server",
+    "cluster",
+    "messaging",
+    "messenger"
+  ],
+  "files": [
+    "lib",
+    "LICENSE"
+  ],
+  "author": "Ron Korving <rkorving@wizcorp.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cagey-framework/cagey-peer-network/issues"
+  },
+  "homepage": "https://github.com/cagey-framework/cagey-peer-network#readme",
+  "dependencies": {
+    "eventemitter2": "^5.0.0",
+    "network-interfaces": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "husky": "^0.14.3"
+  }
+}
