@@ -1,6 +1,6 @@
 {
   "name": "cagey-peer-network",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Distributed cluster messaging for the Cagey game framework",
   "main": "lib/index.js",
   "scripts": {
