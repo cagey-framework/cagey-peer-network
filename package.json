@@ -34,7 +34,7 @@
     "network-interfaces": "1.1.0"
   },
   "devDependencies": {
-    "eslint": "4.19.1",
+    "eslint": "5.0.0",
     "husky": "0.14.3"
   }
 }
