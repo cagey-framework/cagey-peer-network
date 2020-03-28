@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/cagey-framework/cagey-peer-network#readme",
   "dependencies": {
-    "eventemitter2": "5.0.1",
+    "eventemitter2": "6.3.1",
     "network-interfaces": "1.1.0"
   },
   "devDependencies": {
